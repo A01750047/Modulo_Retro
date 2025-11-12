@@ -1,0 +1,1 @@
+Se presentan los modelos ya entrenados con el dataset. Si se quiere correr el código favor de descargar los datos de la carpeta de Drive https://drive.google.com/drive/folders/1DTZ3XiD3efs-_cmXIs3_ielesAEYEuOQ?usp=sharing
